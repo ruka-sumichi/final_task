@@ -14,16 +14,16 @@ https://opensource.microsoft.com/codeofconduct/。
 【特徴量】　eid、vdata、discharged、lengthofstayを除く全て。
 
 【各項目】
-eid : episode ID（インデックス列）
+eid : episode ID（）
 vdata : Visit Date（来院日）
 rcount : Readmission Count（再入院回数）
-gender：（性別　M：男性、F：女性）
-dialysisrenalendstage : Dialysis indicator（透析の要否）
-asthma : Asthma indicator（喘息）
+gender：（性別）
+dialysisrenalendstage : Dialysis indicator（透析指標）
+asthma : Asthma indicator（喘息指標）
 irondef : Iron deficiency（鉄分不足）
 pneum : Pneumonia（肺炎）
 Substance dependency（薬物依存）
-Psychological disorder major（精神障害）
+Psychological disorder major（重度の精神障害）
 depress（抑うつ）
 psychother（心理療法）
 fibrosisandother（肺線維症）
@@ -39,6 +39,7 @@ bmi（肥満度）
 pulse（脈拍）
 respiration（呼吸）
 secondarydiagnosisnonicd9（ICD-9に該当しない二次診断）
+（本来の検査目的以外で発見された所見のことか？）
 discharged（退院）
 facid（施設ID）
 lengthofstay（入院期間）
