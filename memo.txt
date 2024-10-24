@@ -22,8 +22,8 @@ dialysisrenalendstage : Dialysis indicator（透析の要否）
 asthma : Asthma indicator（喘息）
 irondef : Iron deficiency（鉄分不足）
 pneum : Pneumonia（肺炎）
-Substance dependency（薬物依存）
-Psychological disorder major（精神障害）
+substancedependence（薬物依存）
+psychologicaldisordermajor（精神障害）
 depress（抑うつ）
 psychother（心理療法）
 fibrosisandother（肺線維症）
